@@ -1,0 +1,16 @@
+#home
+{
+	background:url("ec wp.jpg");
+
+}
+ul{
+	display: block;
+	width: 100px;
+	height: 100px;
+}
+li{
+	float: left;
+}
+li a{
+	text-decoration: none;
+}
